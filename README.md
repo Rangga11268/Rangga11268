@@ -27,7 +27,7 @@ Saya seorang Web Developer yang bersemangat dalam membangun aplikasi web yang fu
 
 #### Connect With Me
 
-#### My Website Portfolio
+
 https://darell-rangga.vercel.app/
 
 <p align="center">
