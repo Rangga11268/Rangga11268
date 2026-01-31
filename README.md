@@ -102,7 +102,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rangga11268&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rangga11268&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rangga11268&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
