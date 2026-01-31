@@ -93,11 +93,11 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rangga11268&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rangga11268&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga11268&theme=tokyonight&hide_border=true&background=0d1117&fire=e25822&ring=e25822&currStreakLabel=e25822" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga11268&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
@@ -116,7 +116,3 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <a href="https://x.com/sanjaati1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.youtube.com/@darellrangga6466" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
-
-<p align="center">
-  Generated with ❤️ by AntiGravity
-</p>
