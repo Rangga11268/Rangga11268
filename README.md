@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Header" />
   
   <h1 align="center">Hi there, I'm Darell Rangga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
@@ -72,7 +71,6 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
   <img src="https://img.shields.io/badge/Glassmorphism-5dbb63?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo_Brutalism-000000?style=for-the-badge&logo=ark&logoColor=white" />
 </div>
@@ -87,6 +85,16 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
+
+---
+
+### 💎 Featured Work
+
+|                       **Navara Trans**                        |                   **TUJAGO (Tunggal Jaya)**                   |                 **Satya Hub (Siakad)**                  |
+| :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------: |
+|    <img src="img/navara.webp" width="250" height="auto" />    |    <img src="img/tujago.webp" width="250" height="auto" />    | <img src="img/siakad.webp" width="250" height="auto" /> |
+|                      **"Clean Luxury"**                       |                     **"Modern Monolith"**                     |                 **"Unified Ecosystem"**                 |
+| WhatsApp Booking Engine <br/> _Practical No-Backend Solution_ | Digital Transformation <br/> _Fleet Management & PDF Tickets_ |    Zero Friction <br/> _Real-time Schedule & Tasks_     |
 
 ---
 
