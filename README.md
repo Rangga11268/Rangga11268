@@ -101,11 +101,9 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rangga11268&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rangga11268&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rangga11268&theme=tokyonight&utcOffset=7" alt="Productive Time" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rangga11268&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
