@@ -104,6 +104,9 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rangga11268&theme=tokyonight" alt="Profile Details" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rangga11268&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
