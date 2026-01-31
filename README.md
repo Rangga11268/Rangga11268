@@ -105,7 +105,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga11268&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Rangga11268&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
