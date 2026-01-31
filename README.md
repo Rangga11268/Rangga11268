@@ -3,7 +3,7 @@
   <h1 align="center">Hi there, I'm Darell Rangga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
   <p align="center">
-    <strong>Fullstack Developer | Creative Technologist | UI/UX Enthusiast</strong>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&background=00000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Creative+Technologist;UI%2FUX+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
@@ -59,14 +59,6 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </div>
 
-#### 🔌 APIs & Integrations
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Midtrans-0063A5?style=for-the-badge&logo=contactlesspayment&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
-
 #### 🎨 Design & Methodologies
 
 <div align="left">
@@ -108,6 +100,14 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 ---
 
+### 💻 Daily Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
 ### 🎮 Let's Play!
 
 <div align="center">
@@ -122,3 +122,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <a href="https://x.com/sanjaati1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.youtube.com/@darellrangga6466" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rangga11268&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
