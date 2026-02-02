@@ -37,16 +37,16 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 #### 💻 The Bread & Butter (Core Stack)
 
-<div align="left">
+<div align="center">
   <img src="img/skills-core.svg" alt="Core Stack" />
 </div>
 
 #### 🚀 Specialized Frameworks & Libraries
 
-<div align="left">
+<div align="center">
   <img src="img/skills-specialized.svg" alt="Specialized Frameworks" />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=orange" />
@@ -55,13 +55,13 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 #### 🛠️ Tools & DevOps
 
-<div align="left">
+<div align="center">
   <img src="img/skills-tools.svg" alt="Tools" />
 </div>
 
 #### 🎨 Design & Concepts
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Glassmorphism-5dbb63?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo_Brutalism-000000?style=for-the-badge&logo=ark&logoColor=white" />
 </div>
