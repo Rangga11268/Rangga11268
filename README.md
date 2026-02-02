@@ -38,17 +38,13 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 #### 💻 The Bread & Butter (Core Stack)
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,laravel,nodejs,mysql,mongodb&theme=tokyonight" />
-  </a>
+  <img src="img/skills-core.svg" alt="Core Stack" />
 </div>
 
 #### 🚀 Specialized Frameworks & Libraries
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,threejs,express&theme=tokyonight" />
-  </a>
+  <img src="img/skills-specialized.svg" alt="Specialized Frameworks" />
 </div>
 <div align="left">
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
@@ -60,9 +56,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 #### 🛠️ Tools & DevOps
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,vercel,vite,vscode,postman,githubactions&theme=tokyonight" />
-  </a>
+  <img src="img/skills-tools.svg" alt="Tools" />
 </div>
 
 #### 🎨 Design Concepts (Badge Only)
