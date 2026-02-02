@@ -59,7 +59,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <img src="img/skills-tools.svg" alt="Tools" />
 </div>
 
-#### 🎨 Design Concepts (Badge Only)
+#### 🎨 Design & Concepts
 
 <div align="left">
   <img src="https://img.shields.io/badge/Glassmorphism-5dbb63?style=for-the-badge&logo=css3&logoColor=white" />
@@ -109,8 +109,6 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
   <a href="https://www.instagram.com/darellrangga17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/sanjaati1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.youtube.com/@darellrangga6466" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</div>
-
-<p align="center">
+  <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=Rangga11268&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
