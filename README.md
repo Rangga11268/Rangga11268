@@ -38,44 +38,32 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 #### 💻 The Bread & Butter (Core Stack)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="img/skills-core.svg" alt="Core Stack" />
 </div>
 
 #### 🚀 Specialized Frameworks & Libraries
 
 <div align="left">
+  <img src="img/skills-specialized.svg" alt="Specialized Frameworks" />
+</div>
+<div align="left">
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=orange" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </div>
 
-#### 🎨 Design & Methodologies
+#### 🛠️ Tools & DevOps
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="img/skills-tools.svg" alt="Tools" />
+</div>
+
+#### 🎨 Design Concepts (Badge Only)
+
+<div align="left">
   <img src="https://img.shields.io/badge/Glassmorphism-5dbb63?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo_Brutalism-000000?style=for-the-badge&logo=ark&logoColor=white" />
-</div>
-
-#### 🛠️ DevOps & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 ---
