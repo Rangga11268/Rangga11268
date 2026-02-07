@@ -58,6 +58,9 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 <div align="center">
   <img src="img/skills-tools.svg" alt="Tools" />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/AntiGravity-AI_Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+</div>
 
 #### 🎨 Design & Concepts
 
