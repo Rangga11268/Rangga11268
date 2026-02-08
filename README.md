@@ -23,13 +23,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Web Developer** who thrives on building functional, stunning, and high-performance web applications. I blend the **art of design** with the **science of coding** to create digital experiences that leave a lasting impression.
-
-- 🔭 I’m currently working on **Fullstack Applications** using the **Modern Monolith** approach.
-- 🌱 I’m currently learning **Advanced 3D Web Graphics** with Three.js.
-- 👯 I’m looking to collaborate on **Open Source projects** in the JS & PHP ecosystem.
-- 💬 Ask me about **React, Laravel, Next.js, and Modern UI Design**.
-- ⚡ Fun fact: I believe a website without animation is like a party without music!
+I am a results-driven **Fullstack Engineer** responsible for architecting scalable web solutions. My expertise lies in the **React ecosystem** (Next.js) and **Laravel** (TALL/VILT stack), where I blend systems engineering with creative design to build robust, high-performance applications. I am deeply passionate about **Immersive Web Experiences**, currently expanding my capabilities in **Three.js** and **WebGL** to push the boundaries of modern UI/UX. Beyond coding, I am an advocate for open-source collaboration within the JavaScript & PHP communities.
 
 ---
 
@@ -57,6 +51,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 <div align="center">
   <img src="img/skills-tools.svg" alt="Tools" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/AntiGravity-AI_Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
@@ -66,7 +61,6 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 
 <div align="center">
   <img src="https://img.shields.io/badge/Glassmorphism-5dbb63?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo_Brutalism-000000?style=for-the-badge&logo=ark&logoColor=white" />
 </div>
 
 ---
@@ -76,7 +70,7 @@ I'm a passionate **Web Developer** who thrives on building functional, stunning,
 |                       **Navara Trans**                        |                   **TUJAGO (Tunggal Jaya)**                   |                 **Satya Hub (Siakad)**                  |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------: |
 |    <img src="img/navara.webp" width="250" height="auto" />    |    <img src="img/tujago.webp" width="250" height="auto" />    | <img src="img/siakad.webp" width="250" height="auto" /> |
-|                      **"Clean Luxury"**                       |                     **"Modern Monolith"**                     |                 **"Unified Ecosystem"**                 |
+|                      **"Clean Luxury"**                       |                    **"Integrated System"**                    |                 **"Unified Ecosystem"**                 |
 | WhatsApp Booking Engine <br/> _Practical No-Backend Solution_ | Digital Transformation <br/> _Fleet Management & PDF Tickets_ |    Zero Friction <br/> _Real-time Schedule & Tasks_     |
 
 ---
