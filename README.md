@@ -51,6 +51,7 @@ I am a results-driven **Fullstack Engineer** responsible for architecting scalab
 
 <div align="center">
   <img src="img/skills-tools.svg" alt="Tools" />
+  <img src="img/jupyter-icon.svg" width="50" height="50" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </div>
 <div align="center">
