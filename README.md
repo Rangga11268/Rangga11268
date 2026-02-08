@@ -58,10 +58,10 @@ I am a results-driven **Fullstack Engineer** responsible for architecting scalab
   <img src="https://img.shields.io/badge/AntiGravity-AI_Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-#### 🎨 Design & Concepts
+#### 🔠 Programming Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Glassmorphism-5dbb63?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="img/skills-languages.svg" alt="Programming Languages" />
 </div>
 
 ---
