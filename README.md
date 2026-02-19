@@ -7,8 +7,8 @@
   </p>
 
   <p align="center">
-    <a href="https://darell-rangga.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://www.darellrangga.me">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/darell-rangga-1320b634b/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
