@@ -1,0 +1,40 @@
+name: Update Profile README Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render-cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render animated SVG cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/render_readme_cards.py
+
+      - name: Commit updated cards if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cards/ data/contributions.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(cards): refresh live GitHub telemetry SVGs [skip ci]"
+            git push
+          else
+            echo "No changes in SVG cards or contribution data."
+          fi

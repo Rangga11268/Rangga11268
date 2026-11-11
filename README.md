@@ -1,12 +1,42 @@
-# Darell Rangga Putra Rachman
-### Software Engineer · Machine Learning & Systems Architect
-**Information Systems (GPA: 4.00 / 4.00) · 1st Place Champion IT Boot Camp 2026**
+<div align="center">
+  <a href="https://darellrangga.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./cards/hero-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./cards/hero-light.svg" />
+      <img src="./cards/hero-dark.svg" width="100%" alt="Darell Rangga Putra Rachman — Software Engineer, Machine Learning & Distributed Systems Architect" />
+    </picture>
+  </a>
+</div>
 
-<p align="left">
+<p align="center">
+  <a href="#flagship-machine-learning--scientific-computing-engines">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./cards/tile-aiml-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./cards/tile-aiml-light.svg" />
+      <img src="./cards/tile-aiml-dark.svg" width="32.5%" alt="AI and Scientific ML Engines — 522 Automated Tests" />
+    </picture>
+  </a>
+  <a href="#production-full-stack--distributed-web-systems">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./cards/tile-fullstack-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./cards/tile-fullstack-light.svg" />
+      <img src="./cards/tile-fullstack-dark.svg" width="32.5%" alt="Full-Stack Distributed Web Systems — sub-25ms p95" />
+    </picture>
+  </a>
+  <a href="https://darellrangga.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./cards/tile-portfolio-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./cards/tile-portfolio-light.svg" />
+      <img src="./cards/tile-portfolio-dark.svg" width="32.5%" alt="1st Place Winner IT Boot Camp 2026 & Live Portfolio" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/darellrangga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://darellrangga.me"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://darellrangga.me"><img src="https://img.shields.io/badge/Portfolio-09090B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Rangga11268"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:darrelrangga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:darrelrangga@gmail.com"><img src="https://img.shields.io/badge/Email-27272A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -91,8 +121,13 @@ Key highlights across my codebase:
 ## GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rangga11268&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rangga11268&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Rangga11268">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./cards/activity-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./cards/activity-light.svg" />
+      <img src="./cards/activity-dark.svg" width="100%" alt="GitHub Activity, Monthly Contributions, Language Distribution, and Contribution Graph" />
+    </picture>
+  </a>
 </div>
 
 ---
