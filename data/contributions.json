@@ -1,6 +1,6 @@
 {
   "username": "Rangga11268",
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-15",
   "public_repos": 30,
   "languages": [
     {
@@ -10,37 +10,37 @@
     },
     {
       "name": "TypeScript",
-      "bytes": 3825600,
-      "pct": 14.1
+      "bytes": 3868999,
+      "pct": 14.3
     },
     {
       "name": "HTML",
-      "bytes": 3573605,
+      "bytes": 3576888,
       "pct": 13.2
     },
     {
       "name": "Python",
       "bytes": 3024927,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "PHP",
       "bytes": 2779234,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "Other",
-      "bytes": 6847918,
-      "pct": 25.3
+      "bytes": 6848834,
+      "pct": 25.2
     }
   ],
-  "total_contributions": 3939,
-  "active_days": 349,
-  "total_days": 371,
+  "total_contributions": 3921,
+  "active_days": 345,
+  "total_days": 365,
   "best_day_count": 58,
   "best_day_date": "Aug 31",
   "longest_streak": 85,
-  "current_streak": 2,
+  "current_streak": 3,
   "monthly": [
     {
       "ym": "2025-12",
@@ -100,45 +100,10 @@
     {
       "ym": "2026-11",
       "label": "Nov",
-      "count": 143
+      "count": 150
     }
   ],
   "days": [
-    {
-      "date": "2025-11-09",
-      "level": 1,
-      "count": 12
-    },
-    {
-      "date": "2025-11-10",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-11-11",
-      "level": 1,
-      "count": 4
-    },
-    {
-      "date": "2025-11-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-13",
-      "level": 1,
-      "count": 4
-    },
-    {
-      "date": "2025-11-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-15",
-      "level": 1,
-      "count": 4
-    },
     {
       "date": "2025-11-16",
       "level": 0,
@@ -1957,7 +1922,12 @@
     {
       "date": "2026-11-14",
       "level": 1,
-      "count": 2
+      "count": 5
+    },
+    {
+      "date": "2026-11-15",
+      "level": 1,
+      "count": 4
     }
   ]
 }
