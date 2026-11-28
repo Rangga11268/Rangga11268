@@ -1,6 +1,6 @@
 {
   "username": "Rangga11268",
-  "updated_at": "2026-11-27",
+  "updated_at": "2026-11-28",
   "public_repos": 31,
   "languages": [
     {
@@ -36,11 +36,11 @@
   ],
   "total_contributions": 3982,
   "active_days": 349,
-  "total_days": 370,
+  "total_days": 371,
   "best_day_count": 58,
   "best_day_date": "Aug 31",
   "longest_streak": 85,
-  "current_streak": 6,
+  "current_streak": 0,
   "monthly": [
     {
       "ym": "2025-12",
@@ -1951,6 +1951,11 @@
     },
     {
       "date": "2026-11-27",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
       "level": 0,
       "count": 0
     }
